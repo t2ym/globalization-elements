@@ -1,0 +1,22 @@
+{
+  "name": "globalization-elements",
+  "authors": [
+    "Tetsuya Mori <t2y3141592@gmail.com>"
+  ],
+  "keywords": [
+    "element-collection",
+    "polymer",
+    "webcomponents",
+    "i18n",
+    "l10n",
+    "globalization"
+  ],
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "i18n-behavior": "t2ym/i18n-behavior#*",
+    "i18n-element": "t2ym/i18n-element#*",
+    "live-localizer": "t2ym/live-localizer#*",
+    "i18n-format": "t2ym/i18n-format#*",
+    "i18n-number": "t2ym/i18n-number#*"
+  }
+}
